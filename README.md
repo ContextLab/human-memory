@@ -4,15 +4,15 @@ Welcome!  This repository contains course materials for the Dartmouth course [Hu
 
 # Table of contents
 
-0. [Orientation](https://github.com/ContextLab/cs-for-psych/blob/main/README.md#orientation)
-1. [Assignments](https://github.com/ContextLab/cs-for-psych/blob/main/README.md#assignments)
-2. [Introduction and overview](https://github.com/ContextLab/cs-for-psych/blob/main/README.md#introduction-and-overview)
-3. [Recognition memory](https://github.com/ContextLab/cs-for-psych/blob/main/README.md#recognition-memory)
-4. [Attribute models](https://github.com/ContextLab/cs-for-psych/blob/main/README.md#attribute-models)
-5. [Associative memory](https://github.com/ContextLab/cs-for-psych/blob/main/README.md#associative-memory)
-6. [Free recall](https://github.com/ContextLab/cs-for-psych/blob/main/README.md#free-recall)
-7. [Sequence memory](https://github.com/ContextLab/cs-for-psych/blob/main/README.md#sequence-memory)
-8. [Advanced topics](https://github.com/ContextLab/cs-for-psych/blob/main/README.md#advanced-topics)
+0. [Orientation](https://github.com/ContextLab/human-memory/blob/main/README.md#orientation)
+1. [Assignments](https://github.com/ContextLab/human-memory/blob/main/README.md#assignments)
+2. [Introduction and overview](https://github.com/ContextLab/human-memory/blob/main/README.md#introduction-and-overview)
+3. [Recognition memory](https://github.com/ContextLab/human-memory/blob/main/README.md#recognition-memory)
+4. [Attribute models](https://github.com/ContextLab/human-memory/blob/main/README.md#attribute-models)
+5. [Associative memory](https://github.com/ContextLab/human-memory/blob/main/README.md#associative-memory)
+6. [Free recall](https://github.com/ContextLab/human-memory/blob/main/README.md#free-recall)
+7. [Sequence memory](https://github.com/ContextLab/human-memory/blob/main/README.md#sequence-memory)
+8. [Advanced topics](https://github.com/ContextLab/human-memory/blob/main/README.md#advanced-topics)
 
 # Orientation
 **Start here!**  The materials for each module below are organized sequentially.  Work your way from section to section (and from top to bottom within each section).  The recorded lectures (in **bold**) typically cover preceding material (after the previous lecture, within the same module). Take notes on questions, comments, concerns, etc. so that you can bring them up for discussion during our synchronous class meetings.
