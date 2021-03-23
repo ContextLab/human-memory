@@ -53,7 +53,14 @@ Exams will be taken via [Google Forms](https://docs.google.com/forms/u/0/); the 
 - Assignment: Problem set 4
 
 # Free recall
+- Note: this topic will take two weeks to cover
+- Readings: Chapter 6, Chapter 7, [Owen et al., 2020](https://www.biorxiv.org/content/10.1101/763821v2), [Manning et al. (2016)](https://www.dropbox.com/s/xdj6heyp73y92g4/MannEtal16.pdf)
+- Assignments: Problem set 5, Problem set 6
 
 # Sequence memory
+- Note: we may skip this topic during the Spring, 2021 offering of Human Memory
+- Readings: Chapter 8, Chapter 9
 
 # Advanced topics
+- Readings: [Manning (2021)](https://psyarxiv.com/6zjwb), [Manning (2020)](https://www.dropbox.com/s/pzj7nr6ma4rlosd/context_chapter.pdf), [Baldassano et al. (2017)](https://www.dropbox.com/s/ytjokm6fnocj9ut/BaldEtal17.pdf)
+- Assignments: Problem set 7
