@@ -1,6 +1,14 @@
 # Human Memory
 
-Welcome!  This repository contains course materials for the Dartmouth course [Human Memory (PSYC 51.09)](https://pbs.dartmouth.edu/undergraduate/courses-and-syllabi/topics-courses-2020-2021).  The syllabus may be found [[here](https://github.com/ContextLab/human-memory/blob/main/admin/PSYC_51_syllabus.pdf)].  Feel free to follow along with the course materials (whether you are officially enrolled in the course or just visiting!), submit comments and suggestions, etc.
+Welcome!  This repository contains course materials for the Dartmouth undergraduate course [Human Memory (PSYC 51.09)](https://pbs.dartmouth.edu/undergraduate/courses-and-syllabi/topics-courses-2020-2021).  The syllabus may be found [here](https://github.com/ContextLab/human-memory/blob/main/admin/PSYC_51_syllabus.pdf).  Feel free to follow along with the course materials (whether you are officially enrolled in the course or just visiting!), submit comments and suggestions, etc.  If you are a course instructor, you may feel free to use these materials in your own courses (attribution is appreciated).
+
+## Acknowledgements
+
+This course, and many of the course materials, were inspired by (and in some cases copied from!), similar content by [Michael Kahana](http://memory.psych.upenn.edu/Main_Page), [Sean Polyn](https://memory.psy.vanderbilt.edu/w/index.php/Main_Page), and [Per Sederberg](http://compmem.org/).  These materials have also been heavilty influenced by feedback from students who enrolled in prior offerings of this course.
+
+## Contributing
+
+While I strive for 100% accuracy in my courses, I recognize that I am very unlikely to achieve that goal.  If you notice inaccuracies, inefficiencies, and/or if you have any other questions, comments, concerns, etc. pertaining to this course, I encourage you to [open an issue](https://github.com/ContextLab/human-memory/issues) and/or submit a [pull request](https://github.com/ContextLab/human-memory/pulls).  This course is continually evolving as I attempt to maintain its currency and relevance in a rapidly developing field; your help, feedback, and contributions are much appreciated!
 
 # Table of contents
 
