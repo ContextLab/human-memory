@@ -25,37 +25,37 @@ All assignments should be submitted via the [course Canvas page](https://canvas.
 
 Exams will be taken via [Google Forms](https://docs.google.com/forms/u/0/); the associated links will become active when each exam goes live.  Exams are open-book and must be completed within 24 hours their respective start times.  **Collaboration and cooperation on problem sets is encouraged, but exams must be completed individually.**
 
-- [Problem set 1]() (1 point)
-- [Problem set 2]() (1 point)
-- [Problem set 3]() (1 point)
-- [Problem set 4]() (1 point)
-- [Midterm exam]() (20 points; covers content through Chapter 4, inclusive)
-- [Problem set 5]() (1 point)
-- [Problem set 6]() (1 point)
-- [Problem set 7]() (1 point)
-- [Final exam]() (25 points; covers *all* course content)
+- [Problem set 1](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%201/problem%20set%201.pdf) (1 point)
+- [Problem set 2](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%202/problem%20set%202.pdf) (1 point)
+- [Problem set 3](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%203/problem%20set%203.pdf) (1 point)
+- [Problem set 4](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%204/problem%20set%204.pdf) (1 point)
+- [Midterm exam](inactive) (20 points; covers content through Chapter 4, inclusive)
+- [Problem set 5](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%205/problem%20set%205.pdf) (1 point)
+- [Problem set 6](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%206/problem%20set%206.pdf) (1 point)
+- [Problem set 7](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%207/problem%20set%207.pdf) (1 point)
+- [Final exam](inactive) (25 points; covers *all* course content)
 
 # Introduction
 - Reading: Chapter 1
-- Assignment: Problem set 1
+- Assignment: [Problem set 1](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%201/problem%20set%201.pdf)
 
 # Recognition memory
 - Reading: Chapter 2
-- Assignment: Problem set 2
+- Assignment: [Problem set 2](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%202/problem%20set%202.pdf)
 
 # Attribute models
 - Readings: Chapter 3, [Mitchell et al. (2008)](https://www.dropbox.com/s/b6uc1uyyx4zgzbo/MitcEtal08.pdf), [Huth et al. (2016)](https://www.dropbox.com/s/hvaw9zcu4jho6tm/HuthEtal16.pdf)
-- Assignment: Problem set 3
+- Assignment: [Problem set 3](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%203/problem%20set%203.pdf)
 
 # Associative memory
 - Note: this topic will take two weeks to cover
 - Readings: Chapter 4, Chapter 5
-- Assignment: Problem set 4
+- Assignment: [Problem set 4](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%204/problem%20set%204.pdf)
 
 # Free recall
 - Note: this topic will take two weeks to cover
 - Readings: Chapter 6, Chapter 7, [Owen et al., 2020](https://www.biorxiv.org/content/10.1101/763821v2), [Manning et al. (2016)](https://www.dropbox.com/s/xdj6heyp73y92g4/MannEtal16.pdf)
-- Assignments: Problem set 5, Problem set 6
+- Assignments: [Problem set 5](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%205/problem%20set%205.pdf), [Problem set 6](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%206/problem%20set%206.pdf)
 
 # Sequence memory
 - Note: we may skip this topic during the Spring, 2021 offering of Human Memory
@@ -63,4 +63,4 @@ Exams will be taken via [Google Forms](https://docs.google.com/forms/u/0/); the 
 
 # Advanced topics
 - Readings: [Manning (2021)](https://psyarxiv.com/6zjwb), [Manning (2020)](https://www.dropbox.com/s/pzj7nr6ma4rlosd/context_chapter.pdf), [Baldassano et al. (2017)](https://www.dropbox.com/s/ytjokm6fnocj9ut/BaldEtal17.pdf)
-- Assignments: Problem set 7
+- Assignments: [Problem set 7](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%207/problem%20set%207.pdf)
