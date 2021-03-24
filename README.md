@@ -8,7 +8,7 @@ This course, and many of the course materials, were inspired by (and in some cas
 
 ## Contributing
 
-While I strive for 100% accuracy in my courses, I recognize that I am very unlikely to achieve that goal.  If you notice inaccuracies, inefficiencies, and/or if you have any other questions, comments, concerns, etc. pertaining to this course, I encourage you to [open an issue](https://github.com/ContextLab/human-memory/issues) and/or submit a [pull request](https://github.com/ContextLab/human-memory/pulls).  This course is continually evolving as I attempt to maintain its currency and relevance in a rapidly developing field; your help, feedback, and contributions are much appreciated!
+While I strive for 100% accuracy in my courses, I recognize that I am very unlikely to achieve that goal.  If you notice inaccuracies, inefficiencies, and/or if you have any other suggestions, feature requests, questions, comments, concerns, etc. pertaining to this course, I encourage you to [open an issue](https://github.com/ContextLab/human-memory/issues) and/or submit a [pull request](https://github.com/ContextLab/human-memory/pulls).  This course is continually evolving as I attempt to maintain its currency and relevance in a rapidly developing field; your help, feedback, and contributions are much appreciated!
 
 # Table of contents
 
@@ -49,7 +49,7 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 
 # Introduction
 - Required reading: Chapter 1
-- Optional materials:  [Tulving (1972)](https://www.dropbox.com/s/grfjdqs218c7wke/Tulv72.pdf), [Momento (film)](https://www.youtube.com/watch?v=KpNLhJhp8uI)
+- Optional materials:  [Tulving (1972)](https://www.dropbox.com/s/grfjdqs218c7wke/Tulv72.pdf), [Momento (film)](https://www.youtube.com/watch?v=KpNLhJhp8uI), [The Golden Man](https://www.dropbox.com/s/2zkjq0w2iq26ajr/The_Golden_Man__Philip_K_Dick.pdf)
 - Assignment: [Problem set 1](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%201/problem%20set%201.pdf)
 
 # Recognition memory
