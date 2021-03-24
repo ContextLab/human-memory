@@ -25,15 +25,19 @@ All assignments should be submitted via the [course Canvas page](https://canvas.
 
 Exams will be taken via [Google Forms](https://docs.google.com/forms/u/0/); the associated links will become active when each exam goes live.  Exams are open-book and must be completed within 24 hours their respective start times.  **Collaboration and cooperation on problem sets is encouraged, but exams must be completed individually.**
 
-- [Problem set 1](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%201/problem%20set%201.pdf) (1 point)
-- [Problem set 2](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%202/problem%20set%202.pdf) (1 point)
-- [Problem set 3](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%203/problem%20set%203.pdf) (1 point)
-- [Problem set 4](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%204/problem%20set%204.pdf) (1 point)
-- [Midterm exam](inactive) (20 points; covers content through Chapter 4, inclusive)
-- [Problem set 5](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%205/problem%20set%205.pdf) (1 point)
-- [Problem set 6](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%206/problem%20set%206.pdf) (1 point)
-- [Problem set 7](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%207/problem%20set%207.pdf) (1 point)
-- [Final exam](inactive) (25 points; covers *all* course content)
+Note: Only assignments marked *active* are guarantee to be in their final form-- *inactive* assignments are provided to help set expectations about future assignments, but they may be edited or changed prior to be formally assigned.  *Expired* assignments are past their due date (and therefore may no longer be handed in for credit).
+
+| Assignment | Point value | Status | Due date|
+|------------|-------------|--------|---------|
+|[Problem set 1](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%201/problem%20set%201.pdf) | 1 point | Inactive | Not scheduled |
+|[Problem set 2](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%202/problem%20set%202.pdf) | 1 point | Inactive | Not scheduled |
+|[Problem set 3](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%203/problem%20set%203.pdf) | 1 point | Inactive | Not scheduled |
+|[Problem set 4](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%204/problem%20set%204.pdf) | 1 point | Inactive | Not scheduled |
+|[Midterm exam](inactive); covers content through Chapter 4, inclusive | 20 points | Inactive | Not scheduled |
+|[Problem set 5](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%205/problem%20set%205.pdf) | 1 point | Inactive | Not scheduled |
+|[Problem set 6](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%206/problem%20set%206.pdf) | 1 point | Inactive | Not scheduled |
+|[Problem set 7](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%207/problem%20set%207.pdf) | 1 point | Inactive | Not scheduled |
+|[Final exam](inactive); covers *all* course content through the last day of class, inclusive | 25 points | Inactive | Not scheduled |
 
 # Introduction
 - Reading: Chapter 1
