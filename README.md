@@ -48,31 +48,35 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 |[Final exam](inactive); covers *all* course content through the last day of class, inclusive | 25 points | Inactive | Not scheduled |
 
 # Introduction
-- Reading: Chapter 1
+- Required reading: Chapter 1
+- Optional materials:  [Tulving (1972)](https://www.dropbox.com/s/grfjdqs218c7wke/Tulv72.pdf), [Momento (film)](https://www.youtube.com/watch?v=KpNLhJhp8uI)
 - Assignment: [Problem set 1](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%201/problem%20set%201.pdf)
 
 # Recognition memory
-- Reading: Chapter 2
+- Required reading: Chapter 2
 - Assignment: [Problem set 2](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%202/problem%20set%202.pdf)
 
 # Attribute models
-- Readings: Chapter 3, [Mitchell et al. (2008)](https://www.dropbox.com/s/b6uc1uyyx4zgzbo/MitcEtal08.pdf), [Huth et al. (2016)](https://www.dropbox.com/s/hvaw9zcu4jho6tm/HuthEtal16.pdf)
+- Required readings: Chapter 3, [Mitchell et al. (2008)](https://www.dropbox.com/s/b6uc1uyyx4zgzbo/MitcEtal08.pdf), [Huth et al. (2016)](https://www.dropbox.com/s/hvaw9zcu4jho6tm/HuthEtal16.pdf), [Blei (2012)](https://www.dropbox.com/s/5lmx9jvp861yrmu/Blei12.pdf)
+- Optional materials: [Semantic maps (Gallant Lab)](https://gallantlab.org/huth2016)
 - Assignment: [Problem set 3](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%203/problem%20set%203.pdf)
 
 # Associative memory
 - Note: this topic will take two weeks to cover
-- Readings: Chapter 4, Chapter 5
+- Required readings: Chapter 4, Chapter 5
+- Optional materials: [Deep neural networks tutorial](https://www.youtube.com/watch?v=ILsA4nyG7I0), [Owen et al. (2021)](https://www.biorxiv.org/content/10.1101/763821v2.full.pdf), [The Science of Remembering: How to Forget](http://archive.ttbook.org/book/science-remembering), [Sievers and Momennejad (2019)](https://www.biorxiv.org/content/biorxiv/early/2019/09/23/778563.full.pdf)
 - Assignment: [Problem set 4](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%204/problem%20set%204.pdf)
 
 # Free recall
 - Note: this topic will take two weeks to cover
-- Readings: Chapter 6, Chapter 7, [Owen et al., 2020](https://www.biorxiv.org/content/10.1101/763821v2), [Manning et al. (2016)](https://www.dropbox.com/s/xdj6heyp73y92g4/MannEtal16.pdf)
+- Required readings: Chapter 6, Chapter 7, [Owen et al., 2020](https://www.biorxiv.org/content/10.1101/763821v2), [Manning et al. (2016)](https://www.dropbox.com/s/xdj6heyp73y92g4/MannEtal16.pdf)
+- Optional materials: [Manning (2015)](https://www.dropbox.com/s/qzmvf911dr4uzcp/MannEtal15.pdf)
 - Assignments: [Problem set 5](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%205/problem%20set%205.pdf), [Problem set 6](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%206/problem%20set%206.pdf)
 
 # Sequence memory
 - Note: we may skip this topic during the Spring, 2021 offering of Human Memory
-- Readings: Chapter 8, Chapter 9
+- Required readings: Chapter 8, Chapter 9
 
 # Advanced topics
-- Readings: [Manning (2021)](https://psyarxiv.com/6zjwb), [Manning (2020)](https://www.dropbox.com/s/pzj7nr6ma4rlosd/context_chapter.pdf), [Baldassano et al. (2017)](https://www.dropbox.com/s/ytjokm6fnocj9ut/BaldEtal17.pdf)
+- Required readings: [Manning (2021)](https://psyarxiv.com/6zjwb), [Manning (2020)](https://www.dropbox.com/s/pzj7nr6ma4rlosd/context_chapter.pdf), [Baldassano et al. (2017)](https://www.dropbox.com/s/ytjokm6fnocj9ut/BaldEtal17.pdf)
 - Assignments: [Problem set 7](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%207/problem%20set%207.pdf)
