@@ -1,0 +1,123 @@
+\documentclass[11pt]{article}
+\usepackage{amsmath}
+\usepackage{setspace}
+\usepackage{pxfonts}
+%\usepackage{graphicx}
+\usepackage{geometry}
+
+
+\geometry{letterpaper,left=.5in,right=.5in,top=0.5in,bottom=.75in,headsep=5pt,footskip=20pt}
+
+\title{PSYC 51.09: Problem Set 5}
+%\author{Jeremy R. Manning}
+\date{}
+
+\begin{document}
+\maketitle
+\vspace{-0.75in}
+\section*{Introduction}
+This problem set is intended to solidify the concepts you learned
+about in this week's lectures and readings.  Your responses will be
+worth 5\% of your final grade.  \textbf{After attempting each problem
+  on your own,} you are encouraged to work together with your classmates in small groups, and/or to post and answer questions on the course’s Canvas site.  \textbf{\textit{However, you must clearly indicate who your collaborated with and submit your own (uniquely worded) responses.}}
+
+We will go over the answers to this problem set in class on \textbf{Thursday, November 7, 2019 at 10:10 am}.  You must upload your answers before then in order to receive credit.  No late submissions will be accepted.
+
+\section*{Readings}
+\begin{enumerate}
+\item Read Chapter 5 of \textit{Foundations of Human Memory} (if you
+  have not already done so).  What were your thoughts on the reading?
+  \textbf{(Ungraded)}
+
+\item \textit{Optional.}  If you'd like to learn about \textit{deep neural networks} (an
+  extension of the Hopfield networks we learned about in class and in
+  Chapter 5) watch this YouTube video:
+  \texttt{https://tinyurl.com/kvbw872}.  What'd you think?
+  \textbf{(Ungraded)}
+
+\item \textit{Optional.} If you'd like to learn about how network
+  patterns in our brains reflect our ongoing thoughts, read Owen et
+  al. (2019).  Thoughts?  \textbf{(Ungraded)}
+
+\item \textit{Optional.} If you'd like to learn more about how we can
+  intentionally forget, read Manning et al. (2016).  You can also
+  listen to a radio segment on the study here:
+  \texttt{https://tinyurl.com/y25fwklm}. \textbf{(Ungraded)}
+
+  \item \textit{Optional.} Sievers and Momennejad (2019) propose an
+    approach for ``deleting'' specific targeted  memories by
+    presenting tailored sequences of stimuli.  Can you think of any
+    interesting applications and/or implications of this work?  \textbf{(Ungraded)}
+\end{enumerate}
+
+\section*{Graded questions}
+
+For this problem set, your job is to create your own neural
+  network model of memory (a Hopfield network).  Below are two
+  memories, $\mathbf{m}_1$ and $\mathbf{m}_2$ that you will store in
+  your network.  Use the techniques we discussed in class (and in
+  the book), along with the provided equations, to answer the
+  following questions.  Show your work!
+\[
+  \mathbf{m}_1=
+  \begin{pmatrix}
+    1\\
+    -1\\
+    -1\\
+    1\\
+    -1\\
+    -1\\
+  \end{pmatrix}\quad
+  \mathbf{m}_2=
+  \begin{pmatrix}
+    -1\\
+    -1\\
+    1\\
+    -1\\
+    -1\\
+    1\\
+  \end{pmatrix}\quad
+\mathbf{x}_1=
+  \begin{pmatrix}
+    -1\\
+    -1\\
+    0\\
+    0\\
+    0\\
+    0\\
+  \end{pmatrix}\quad
+\mathbf{x}_2=
+  \begin{pmatrix}
+    1\\
+    -1\\
+    0\\
+    0\\
+    0\\
+    0\\
+  \end{pmatrix}
+\]
+Learning rule:
+\[
+W(i,j) = \sum_{k = 1}^L a_k(i)a_k(j)
+\]
+Dynamic rule:
+\[
+a(i) = \mathrm{sign}\left(\sum_{j=1}^N W(i,j)a(j)\right)
+\]
+
+\begin{enumerate}
+\item \textbf{(2.5 points)} Create a weight matrix, using Hebbian learning, that contains
+  both $\mathbf{m}_1$ and $\mathbf{m}_2$ as stable memories.
+
+\item \textbf{(2.5 points)} For each of the partial cues, $\mathbf{x}_1$ and $\mathbf{x}_2$,
+  the activity of the first two neurons is known.  Use
+  \textbf{asynchronous updating} to calculate the activities of the
+  remaining four neurons (in whatever order you want).  Can the
+  network retrieve both memories?  Hint: update neurons 3, 4, 5, and 6
+  (in any order).  Then continue updating those 4 neurons until none of the
+  values change to show that the network has stabilized.
+\end{enumerate}
+
+\end{document}
+
+
