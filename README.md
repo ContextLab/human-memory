@@ -2,6 +2,8 @@
 
 Welcome!  This repository contains course materials for the Dartmouth undergraduate course [Human Memory (PSYC 51.09)](https://pbs.dartmouth.edu/undergraduate/courses-and-syllabi/topics-courses-2020-2021).  The syllabus may be found [here](https://github.com/ContextLab/human-memory/blob/main/admin/PSYC_51_syllabus.pdf).  Feel free to follow along with the course materials (whether you are officially enrolled in the course or just visiting!), submit comments and suggestions, etc.  If you are a course instructor, you may feel free to use these materials in your own courses (attribution is appreciated).
 
+<img src=https://salvadordalilounge.files.wordpress.com/2014/12/salvador_dali_-_persistence_of_memory_1931_fr.jpg width="350">
+
 ## Acknowledgements
 
 This course, and many of the course materials, were inspired by (and in some cases copied from!), similar content by [Michael Kahana](http://memory.psych.upenn.edu/Main_Page), [Sean Polyn](https://memory.psy.vanderbilt.edu/w/index.php/Main_Page), and [Per Sederberg](http://compmem.org/).  These materials have also been heavilty influenced by feedback from students who enrolled in prior offerings of this course.
