@@ -27,6 +27,8 @@ While I strive for 100% accuracy in my courses, I recognize that I am very unlik
 
 Each of the sections below (except the next one) covers a specific aspect of human learning and memory.  Most of the sections (all but the last) correspond to specific chapters in our [course textbook](https://www.amazon.com/Foundations-Human-Memory-Michael-Kahana/dp/0199387648/ref=sr_1_1?dchild=1&keywords=9780195333244&linkCode=qs&qid=1616513423&s=books&sr=1-1).  You should read the given chapter(s) *prior* to our course meeting on that topic.
 
+- [**Course introduction and overview**](https://youtu.be/S86iEjbSNms)
+
 # Assignments
 
 All assignments should be submitted via the [course Canvas page](https://canvas.dartmouth.edu/courses/45671) unless otherwise specified.  Point values are indicated in parentheses.  Note that all problem sets are graded as credit (1 point) or no credit (0 points).  To recieve credit for a problem set you must turn in the complete problem set by the due date.  (There is no credit for late assignments and/or partially completed assignments.)
