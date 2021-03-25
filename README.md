@@ -14,7 +14,7 @@ While I strive for 100% accuracy in my courses, I recognize that I am very unlik
 
 0. [Orientation](https://github.com/ContextLab/human-memory/blob/main/README.md#orientation)
 1. [Assignments](https://github.com/ContextLab/human-memory/blob/main/README.md#assignments)
-2. [Introduction and overview](https://github.com/ContextLab/human-memory/blob/main/README.md#introduction-and-overview)
+2. [Background](https://github.com/ContextLab/human-memory/blob/main/README.md#background)
 3. [Recognition memory](https://github.com/ContextLab/human-memory/blob/main/README.md#recognition-memory)
 4. [Attribute models](https://github.com/ContextLab/human-memory/blob/main/README.md#attribute-models)
 5. [Associative memory](https://github.com/ContextLab/human-memory/blob/main/README.md#associative-memory)
@@ -49,7 +49,7 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 |[Problem set 7](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%207/problem%20set%207.pdf) | 1 point | Inactive | Not scheduled |
 |[Final exam](inactive); covers *all* course content through the last day of class, inclusive | 25 points | Inactive | Not scheduled |
 
-# Introduction
+# Background
 - Required reading: Chapter 1
 - Optional materials:  [Tulving (1972)](https://www.dropbox.com/s/grfjdqs218c7wke/Tulv72.pdf), [Momento (film)](https://www.youtube.com/watch?v=KpNLhJhp8uI), [The Golden Man](https://www.dropbox.com/s/2zkjq0w2iq26ajr/The_Golden_Man__Philip_K_Dick.pdf)
 - Assignment: [Problem set 1](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%201/problem%20set%201.pdf)
