@@ -41,7 +41,7 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 
 | Assignment | Point value | Status | Due date|
 |------------|-------------|--------|---------|
-|[Problem set 1](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%201/problem%20set%201.pdf) | 1 point | Inactive | Not scheduled |
+|[Problem set 1](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%201/problem%20set%201.pdf) | 1 point | **Active** | April 5, 2021 |
 |[Problem set 2](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%202/problem%20set%202.pdf) | 1 point | Inactive | Not scheduled |
 |[Problem set 3](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%203/problem%20set%203.pdf) | 1 point | Inactive | Not scheduled |
 |[Problem set 4](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%204/problem%20set%204.pdf) | 1 point | Inactive | Not scheduled |
@@ -55,6 +55,7 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 - Required reading: Chapter 1
 - Optional materials:  [Tulving (1972)](https://www.dropbox.com/s/grfjdqs218c7wke/Tulv72.pdf), [Momento (film)](https://www.youtube.com/watch?v=KpNLhJhp8uI), [The Golden Man](https://www.dropbox.com/s/2zkjq0w2iq26ajr/The_Golden_Man__Philip_K_Dick.pdf)
 - Assignment: [Problem set 1](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%201/problem%20set%201.pdf)
+- [**Lecture 1 recording**](inactive): repetition, recency, forgetting, and context [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_1.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_1.key)]
 
 # Recognition memory
 - Required reading: Chapter 2
