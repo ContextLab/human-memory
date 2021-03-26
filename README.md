@@ -36,7 +36,7 @@ Each of the sections below (except the next one) covers a specific aspect of hum
 
 All assignments should be submitted via the [course Canvas page](https://canvas.dartmouth.edu/courses/45671) unless otherwise specified.  Point values are indicated in parentheses.  Note that all problem sets are graded as credit (1 point) or no credit (0 points).  To recieve credit for a problem set you must turn in the complete problem set by the due date.  (There is no credit for late assignments and/or partially completed assignments.)
 
-Exams will be taken via [Google Forms](https://docs.google.com/forms/u/0/); the associated links will become active when each exam goes live.  Exams are open-book and must be completed within 24 hours their respective start times.  **Collaboration and cooperation on problem sets is encouraged, but exams must be completed individually.**
+The exam links will become active when they go live (they are not available in advance).  Exams are open-book and must be completed within 24 hours their respective start times.  **Collaboration and cooperation on problem sets is encouraged, but exams must be completed individually.**
 
 Note: Only assignments marked *active* are guarantee to be in their final form-- *inactive* assignments are provided to help set expectations about future assignments, but they may be edited or changed prior to be formally assigned.  *Expired* assignments are past their due date (and therefore may no longer be handed in for credit).
 
