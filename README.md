@@ -30,6 +30,7 @@ While I strive for 100% accuracy in my courses, I recognize that I am very unlik
 Each of the sections below (except the next one) covers a specific aspect of human learning and memory.  Most of the sections (all but the last) correspond to specific chapters in our [course textbook](https://www.amazon.com/Foundations-Human-Memory-Michael-Kahana/dp/0199387648/ref=sr_1_1?dchild=1&keywords=9780195333244&linkCode=qs&qid=1616513423&s=books&sr=1-1).  You should read the given chapter(s) *prior* to our course meeting on that topic.
 
 - [**Course introduction and overview**](https://youtu.be/S86iEjbSNms) [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/intro_and_overview.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/intro_and_overview.key)]
+  - [**Supplemental guest lecture**](https://youtu.be/VTSCL3Sz-vA): a perspective on the knowns and unknowns of human memory
 
 # Assignments
 
