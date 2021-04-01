@@ -57,8 +57,8 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 - Required reading: Chapter 1
 - Optional materials:  [Tulving (1972)](https://www.dropbox.com/s/grfjdqs218c7wke/Tulv72.pdf), [Momento (film)](https://www.youtube.com/watch?v=KpNLhJhp8uI), [The Golden Man](https://www.dropbox.com/s/2zkjq0w2iq26ajr/The_Golden_Man__Philip_K_Dick.pdf)
 - Assignment: [Problem set 1](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%201/problem%20set%201.pdf)
-- [**Lecture 1 recording**](https://youtu.be/eLTEP0oLxd0): defining and thinking about memory [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_1.pdf)]][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_1.key)]]
-- [**Lecture 2 recording**](https://youtu.be/gff_ljt2gdk): spaced versus massed repetition, recency, sleep, and context  [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_2.pdf)]][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_2.key)]]
+- [**Lecture 1 recording**](https://youtu.be/eLTEP0oLxd0): defining and thinking about memory [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_1.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_1.key)]
+- [**Lecture 2 recording**](https://youtu.be/gff_ljt2gdk): spaced versus massed repetition, recency, sleep, and context  [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_2.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_2.key)]
 
 # Recognition memory
 - Required reading: Chapter 2
