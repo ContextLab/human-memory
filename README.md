@@ -62,6 +62,7 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 
 # Recognition memory
 - Required reading: Chapter 2
+- [**Lecture 3 recording**](https://youtu.be/B96LNBS_vbI): introducing recognition memory and strength theory [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_3.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_3.key)]
 - Assignment: [Problem set 2](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%202/problem%20set%202.pdf)
 
 # Attribute models
