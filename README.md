@@ -43,8 +43,8 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 
 | Assignment | Point value | Status | Due date|
 |------------|-------------|--------|---------|
-|[Problem set 1](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%201/problem%20set%201.pdf) | 1 point | **Active** | April 5, 2021 |
-|[Problem set 2](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%202/problem%20set%202.pdf) | 1 point | Inactive | Not scheduled |
+|[Problem set 1](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%201/problem%20set%201.pdf) | 1 point | *Expired* | April 5, 2021 |
+|[Problem set 2](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%202/problem%20set%202.pdf) | 1 point | **Active** | April 12, 2021 |
 |[Problem set 3](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%203/problem%20set%203.pdf) | 1 point | Inactive | Not scheduled |
 |[Problem set 4](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%204/problem%20set%204.pdf) | 1 point | Inactive | Not scheduled |
 |[Midterm exam](inactive); covers content through Chapter 5, inclusive | 20 points | Inactive | Not scheduled |
