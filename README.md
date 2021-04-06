@@ -41,8 +41,8 @@ The exam links will become active when they go live (they are not available in a
 
 Note: Only assignments marked *active* are guarantee to be in their final form-- *inactive* assignments are provided to help set expectations about future assignments, but they may be edited or changed prior to be formally assigned.  *Expired* assignments are past their due date (and therefore may no longer be handed in for credit).
 
-| Assignment | Point value | Status | Due date|
-|------------|-------------|--------|---------|
+| Assignment | Point value | Status | Due date |
+|------------|-------------|--------|----------|
 |[Problem set 1](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%201/problem%20set%201.pdf) | 1 point | *Expired* | April 5, 2021 |
 |[Problem set 2](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%202/problem%20set%202.pdf) | 1 point | **Active** | April 12, 2021 |
 |[Problem set 3](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%203/problem%20set%203.pdf) | 1 point | Inactive | Not scheduled |
@@ -63,6 +63,7 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 # Recognition memory
 - Required reading: Chapter 2
 - [**Lecture 3 recording**](https://youtu.be/B96LNBS_vbI): introducing recognition memory and strength theory [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_3.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_3.key)]
+- [**Lecture 4 recording**](https://youtu.be/j87f6C7hQPc): strength theory continued (distributions, Gaussian mean and variance)
 - Assignment: [Problem set 2](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%202/problem%20set%202.pdf)
 
 # Attribute models
