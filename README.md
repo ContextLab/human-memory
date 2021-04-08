@@ -64,6 +64,7 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 - Required reading: Chapter 2
 - [**Lecture 3 recording**](https://youtu.be/B96LNBS_vbI): introducing recognition memory and strength theory [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_3.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_3.key)]
 - [**Lecture 4 recording**](https://youtu.be/j87f6C7hQPc): strength theory continued (distributions, Gaussian mean and variance) [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_4.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_4.key)]
+- [**Lecture 5 recording**](https://youtu.be/cXgbFF7ND8A): strength theory continued, ROC curves [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_5.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_5.key)]
 - Assignment: [Problem set 2](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%202/problem%20set%202.pdf)
 
 # Attribute models
@@ -84,7 +85,7 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 - Assignment: [Problem set 5](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%205/problem%20set%205.pdf)
 
 # Sequence memory
-- Note: this topic will take two weeks to cover
+- Note: this topic will take two weeks to cover (and we will likely skip this topic for the Spring 2021 offering of this course)
 - Required readings: Chapter 8, Chapter 9
 - Assignment: [Problem set 6](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%206/problem%20set%206.pdf)
 
