@@ -61,10 +61,12 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 - [**Lecture 2 recording**](https://www.dropbox.com/s/s3zx62mo37ihcx1/PSYC%2051%20Lecture%202.mp4): spaced versus massed repetition, recency, sleep, and context  [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_2.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_2.key)] 
 
 # Recognition memory
+- Note: this topic will take two weeks to cover
 - Required reading: Chapter 2
 - [**Lecture 3 recording**](https://youtu.be/B96LNBS_vbI): introducing recognition memory and strength theory [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_3.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_3.key)]
 - [**Lecture 4 recording**](https://youtu.be/j87f6C7hQPc): strength theory continued (distributions, Gaussian mean and variance) [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_4.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_4.key)]
 - [**Lecture 5 recording**](https://youtu.be/cXgbFF7ND8A): strength theory continued, ROC curves [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_5.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_5.key)]
+- [**Lecture 6 recording**](https://youtu.be/LK6QjJQEJwg): strength theory continued, practice with ROC curves, familiarity versus recollection [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_6.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_6.key)]
 - Assignment: [Problem set 2](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%202/problem%20set%202.pdf)
 
 # Attribute models
