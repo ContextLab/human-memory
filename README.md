@@ -67,6 +67,7 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 - [**Lecture 4 recording**](https://youtu.be/j87f6C7hQPc): strength theory continued (distributions, Gaussian mean and variance) [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_4.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_4.key)]
 - [**Lecture 5 recording**](https://youtu.be/cXgbFF7ND8A): strength theory continued, ROC curves [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_5.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_5.key)]
 - [**Lecture 6 recording**](https://youtu.be/LK6QjJQEJwg): strength theory continued, practice with ROC curves, familiarity versus recollection [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_6.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_6.key)]
+- [**Lecture 7 recording**](https://youtu.be/efQt0AnkzQs): Yonelinas familiarity-recollection model, conditional probability, reasoning with ROC curves and strength distributions [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_7.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_7.key)]
 - Assignment: [Problem set 2](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%202/problem%20set%202.pdf)
 
 # Attribute models
