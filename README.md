@@ -45,7 +45,7 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 |------------|-------------|--------|----------|
 |[Problem set 1](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%201/problem%20set%201.pdf) | 1 point | *Expired* | April 5, 2021 |
 |[Problem set 2](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%202/problem%20set%202.pdf) | 1 point | *Expired* | April 12, 2021 |
-|[Problem set 3](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%203/problem%20set%203.pdf) | 1 point | **Active** | April 21, 2021 |
+|[Problem set 3](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%203/problem%20set%203.pdf) | 1 point | **Active** | April 23, 2021 |
 |[Problem set 4](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%204/problem%20set%204.pdf) | 1 point | Inactive | Not scheduled |
 |[Midterm exam](inactive); covers content through Chapter 5, inclusive | 20 points | Inactive | Not scheduled |
 |[Problem set 5](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%205/problem%20set%205.pdf) | 1 point | Inactive | Not scheduled |
@@ -68,6 +68,7 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 - [**Lecture 5 recording**](https://youtu.be/cXgbFF7ND8A): strength theory continued, ROC curves [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_5.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_5.key)]
 - [**Lecture 6 recording**](https://youtu.be/LK6QjJQEJwg): strength theory continued, practice with ROC curves, familiarity versus recollection [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_6.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_6.key)]
 - [**Lecture 7 recording**](https://youtu.be/efQt0AnkzQs): Yonelinas familiarity-recollection model, conditional probability, reasoning with ROC curves and strength distributions [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_7.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_7.key)]
+- [**Lecture 8 recording**](https://youtu.be/GftLkJAOK14): remember/know judgements, familiarity vs. fluency, false fame and cryptomnesia [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_8.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_8.key)]
 - Assignment: [Problem set 2](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%202/problem%20set%202.pdf)
 
 # Attribute models
