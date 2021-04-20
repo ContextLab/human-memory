@@ -69,7 +69,7 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 - [**Lecture 6 recording**](https://youtu.be/LK6QjJQEJwg): strength theory continued, practice with ROC curves, familiarity versus recollection [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_6.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_6.key)]
 - [**Lecture 7 recording**](https://youtu.be/efQt0AnkzQs): Yonelinas familiarity-recollection model, conditional probability, reasoning with ROC curves and strength distributions [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_7.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_7.key)]
 - [**Lecture 8 recording**](https://youtu.be/GftLkJAOK14): remember/know judgements, familiarity vs. fluency, false fame and cryptomnesia [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_8.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_8.key)]
-- [**Lecture 9 recording**](): the Sternberg paradigm, scanning models, serial versus parallel search [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_9.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_9.key)]
+- [**Lecture 9 recording**](https://youtu.be/8nWXWurwLrs): the Sternberg paradigm, scanning models, serial versus parallel search [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_9.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_9.key)]
 - Assignment: [Problem set 2](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%202/problem%20set%202.pdf)
 
 # Attribute models
