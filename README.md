@@ -73,6 +73,7 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 - Assignment: [Problem set 2](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%202/problem%20set%202.pdf)
 
 # Attribute models
+- [**Lecture 10 recording**](): introduction to attribute models, distance-based similarity, cosine-based similarity, visualizing high-dimensional spaces [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_10.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_10.key)]
 - Required readings: Chapter 3, [Mitchell et al. (2008)](https://www.dropbox.com/s/b6uc1uyyx4zgzbo/MitcEtal08.pdf), [Huth et al. (2016)](https://www.dropbox.com/s/hvaw9zcu4jho6tm/HuthEtal16.pdf), [Blei (2012)](https://www.dropbox.com/s/5lmx9jvp861yrmu/Blei12.pdf)
 - Optional materials: [Semantic maps (Gallant Lab)](https://gallantlab.org/huth2016)
 - Assignment: [Problem set 3](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%203/problem%20set%203.pdf)
