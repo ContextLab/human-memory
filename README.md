@@ -77,6 +77,7 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 - [**Lecture 10 recording**](https://youtu.be/cQpNpxXvQM0): introduction to attribute models, distance-based similarity, cosine-based similarity, visualizing high-dimensional spaces [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_10.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_10.key)]
 - Optional materials: [Semantic maps (Gallant Lab)](https://gallantlab.org/huth2016)
 - [**Lecture 11 recording**](https://youtu.be/jzVn-EUa148): semantic spaces, brain spaces, multiple trace hypothesis, summed similarity [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_11.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_11.key)]
+- [**Lecture 12 recording**](https://youtu.be/SMuv_lnYZzA): empirical evidence for summed similarity, mirror effect explained, frequency versus contextual variability [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_12.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_12.key)]
 - Assignment: [Problem set 3](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%203/problem%20set%203.pdf)
 
 # Associative memory
