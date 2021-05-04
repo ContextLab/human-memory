@@ -85,6 +85,7 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 - Note: this topic will take two weeks to cover
 - Required readings: Chapter 4, Chapter 5
 - Optional materials: [Deep neural networks tutorial](https://www.youtube.com/watch?v=ILsA4nyG7I0), [Owen et al. (2021)](https://www.biorxiv.org/content/10.1101/763821v2.full.pdf), [The Science of Remembering: How to Forget](http://archive.ttbook.org/book/science-remembering), [Sievers and Momennejad (2019)](https://www.biorxiv.org/content/biorxiv/early/2019/09/23/778563.full.pdf)
+- [**Lecture 14 recording**](https://youtu.be/Xpxv0jslfpI): introduction to associative memory and cued recall, paired associates learning, incremental versus all-or-none learning, priming, free associations, elaborative encoding [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_14.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_14.key)]
 - Assignments: [Problem set 4](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%204/problem%20set%204.pdf), [Midterm exam](inactive)
 
 # Free recall
