@@ -46,7 +46,7 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 |[Problem set 1](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%201/problem%20set%201.pdf) | 1 point | *Expired* | April 5, 2021 |
 |[Problem set 2](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%202/problem%20set%202.pdf) | 1 point | *Expired* | April 12, 2021 |
 |[Problem set 3](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%203/problem%20set%203.pdf) | 1 point | *Expired* | April 26, 2021 |
-|[Problem set 4](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%204/problem%20set%204.pdf) | 1 point | **Active** | May 5, 2021 |
+|[Problem set 4](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%204/problem%20set%204.pdf) | 1 point | *Expired* | May 5, 2021 |
 |[Midterm exam](inactive); covers content through Chapter 4, inclusive | 20 points | Inactive | May 10-11, 2021 |
 |[Problem set 5](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%205/problem%20set%205.pdf) | 1 point | Inactive | Not scheduled |
 |[Problem set 6](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%206/problem%20set%206.pdf) | 1 point | Inactive | Not scheduled |
@@ -86,6 +86,7 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 - Required readings: Chapter 4, Chapter 5
 - Optional materials: [Deep neural networks tutorial](https://www.youtube.com/watch?v=ILsA4nyG7I0), [Owen et al. (2021)](https://www.biorxiv.org/content/10.1101/763821v2.full.pdf), [The Science of Remembering: How to Forget](http://archive.ttbook.org/book/science-remembering), [Sievers and Momennejad (2019)](https://www.biorxiv.org/content/biorxiv/early/2019/09/23/778563.full.pdf)
 - [**Lecture 14 recording**](https://youtu.be/H2HovUQd-7E): introduction to associative memory and cued recall, paired associates learning, incremental versus all-or-none learning, priming, free associations, elaborative encoding [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_14.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_14.key)]
+- [**Lecture 15 recording**](https://youtu.be/QKktJ2vDOxU): decay vs. interference, competition, proactive interference [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_15.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_15.key)]
 - Assignments: [Problem set 4](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%204/problem%20set%204.pdf), [Midterm exam](inactive)
   - [**Midterm review session**](https://youtu.be/dacIwvmdA4s): open Q&A about any course material up through Chapter 4
 
