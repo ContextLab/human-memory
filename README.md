@@ -47,7 +47,7 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 |[Problem set 2](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%202/problem%20set%202.pdf) | 1 point | *Expired* | April 12, 2021 |
 |[Problem set 3](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%203/problem%20set%203.pdf) | 1 point | *Expired* | April 26, 2021 |
 |[Problem set 4](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%204/problem%20set%204.pdf) | 1 point | *Expired* | May 5, 2021 |
-|[Midterm exam](https://canvas.dartmouth.edu/courses/45671/discussion_topics/313577); covers content through Chapter 4, inclusive | 20 points | **Active** | May 10-11, 2021 |
+|[Midterm exam](https://canvas.dartmouth.edu/courses/45671/discussion_topics/313731); covers content through Chapter 4, inclusive | 20 points | **Active** | May 10-11, 2021 |
 |[Problem set 5](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%205/problem%20set%205.pdf) | 1 point | Inactive | Not scheduled |
 |[Problem set 6](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%206/problem%20set%206.pdf) | 1 point | Inactive | Not scheduled |
 |[Problem set 7](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%207/problem%20set%207.pdf) | 1 point | Inactive | Not scheduled |
@@ -88,7 +88,7 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 - [**Lecture 14 recording**](https://youtu.be/H2HovUQd-7E): introduction to associative memory and cued recall, paired associates learning, incremental versus all-or-none learning, priming, free associations, elaborative encoding [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_14.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_14.key)]
 - [**Lecture 15 recording**](https://youtu.be/QKktJ2vDOxU): decay vs. interference, competition, proactive interference [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_15.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_15.key)]
 - [**Lecture 16 recording**](https://youtu.be/hZyVfpc4PEY): retroactive interference, modified free recall, modified modified free recall, interference and context, the attribute similarity model of recall, retrieval induced forgetting [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_16.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_16.key)]
-- Assignments: [Problem set 4](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%204/problem%20set%204.pdf), [Midterm exam](https://canvas.dartmouth.edu/courses/45671/discussion_topics/313577)
+- Assignments: [Problem set 4](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%204/problem%20set%204.pdf), [Midterm exam](https://canvas.dartmouth.edu/courses/45671/discussion_topics/313731)
   - [**Midterm review session**](https://youtu.be/dacIwvmdA4s): open Q&A about any course material up through Chapter 4
 
 # Free recall
