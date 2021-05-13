@@ -90,17 +90,18 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 - [**Lecture 16 recording**](https://youtu.be/hZyVfpc4PEY): retroactive interference, modified free recall, modified modified free recall, interference and context, the attribute similarity model of recall, retrieval induced forgetting [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_16.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_16.key)]
 - Assignments: [Problem set 4](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%204/problem%20set%204.pdf), [Midterm exam](https://canvas.dartmouth.edu/courses/45671/discussion_topics/313731)
   - [**Midterm review session**](https://youtu.be/dacIwvmdA4s): open Q&A about any course material up through Chapter 4
+- [**Lecture 17 recording**](https://youtu.be/8gtdCdCvkjk): introduction to models of associative memory and the learning rule of Hopfield networks [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_17.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_17.key)]
+- Assignment: [Problem set 5](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%205/problem%20set%205.pdf)
 
 # Free recall
 - Note: this topic will take two weeks to cover
 - Required readings: Chapter 6, Chapter 7, [Owen et al., 2020](https://www.biorxiv.org/content/10.1101/763821v2), [Manning et al. (2016)](https://www.dropbox.com/s/xdj6heyp73y92g4/MannEtal16.pdf)
 - Optional materials: [Manning (2015)](https://www.dropbox.com/s/qzmvf911dr4uzcp/MannEtal15.pdf)
-- Assignment: [Problem set 5](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%205/problem%20set%205.pdf)
+- Assignment: [Problem set 6](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%206/problem%20set%206.pdf)
 
 # Sequence memory
 - Note: this topic will take two weeks to cover (and we will likely skip this topic for the Spring 2021 offering of this course)
 - Required readings: Chapter 8, Chapter 9
-- Assignment: [Problem set 6](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%206/problem%20set%206.pdf)
 
 # Context reinstatement
 - Required readings: [Manning (2021)](https://psyarxiv.com/6zjwb), [Manning (2020)](https://www.dropbox.com/s/pzj7nr6ma4rlosd/context_chapter.pdf)
