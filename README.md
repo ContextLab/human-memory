@@ -48,7 +48,7 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 |[Problem set 3](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%203/problem%20set%203.pdf) | 1 point | *Expired* | April 26, 2021 |
 |[Problem set 4](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%204/problem%20set%204.pdf) | 1 point | *Expired* | May 5, 2021 |
 |[Midterm exam](https://canvas.dartmouth.edu/courses/45671/discussion_topics/313731); covers content through Chapter 4, inclusive | 20 points | *Expired* | May 11, 2021 |
-|[Problem set 5](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%205/problem%20set%205.pdf) | 1 point | **Active** | May 19, 2021 |
+|[Problem set 5](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%205/problem%20set%205.pdf) | 1 point | *Expired* | May 19, 2021 |
 |[Problem set 6](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%206/problem%20set%206.pdf) | 1 point | **Active** | May 26, 2021 |
 |[Problem set 7](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%207/problem%20set%207.pdf) | 1 point | Inactive | Not scheduled |
 |[Final exam](inactive); covers *all* course content through the last day of class, inclusive | 25 points | Inactive | Not scheduled |
@@ -93,6 +93,7 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 - [**Lecture 17 recording**](https://youtu.be/8gtdCdCvkjk): introduction to models of associative memory and the learning rule of Hopfield networks [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_17.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_17.key)]
 - [**Lecture 18 recording**](https://youtu.be/kU0LQfq25ww): Hopfield networks part II: the learning rule (continued) [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_18.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_18.key)]
 - [**Lecture 19 recording**](https://youtu.be/4BdnmQrWmR4): Hopfield networks part III: the dynamic rule, Hopfield network intuitions [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_19.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_19.key)]
+- [**Lecture 20 recording**](https://youtu.be/7LJqBmkzVrc): Hopfield networks part IV: further intuitions, extensions of Hopfield networks-- deep neural networks, connectionist models, links to biological brain networks [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_20.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_20.key)]
 - Assignment: [Problem set 5](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%205/problem%20set%205.pdf)
 
 # Free recall
