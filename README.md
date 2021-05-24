@@ -99,7 +99,7 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 # Free recall
 - Note: this topic will take two weeks to cover
 - Required readings: Chapter 6, Chapter 7, [Owen et al., 2020](https://www.biorxiv.org/content/10.1101/763821v2), [Manning et al. (2016)](https://www.dropbox.com/s/xdj6heyp73y92g4/MannEtal16.pdf)
-- Optional materials: [Manning (2015)](https://www.dropbox.com/s/qzmvf911dr4uzcp/MannEtal15.pdf)
+- Optional materials: [Manning (2015)](https://www.dropbox.com/s/qzmvf911dr4uzcp/MannEtal15.pdf), [Memory Booster: Episodic Memory](https://www.dropbox.com/s/saaqcpue5tf2625/Memory%20Booster%20--%20Episodic%20Memory%20%28Jeremy%20Manning%29.m4a)
 - [**Lecture 21 recording**](https://youtu.be/zRyMDj8_Bz0): free recall (and variants), probability of first recall, clustering, the role of context in free recall [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_21.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_21.key)]
 - Assignment: [Problem set 6](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%206/problem%20set%206.pdf)
 
