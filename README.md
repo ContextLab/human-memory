@@ -109,7 +109,7 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 - Required readings: Chapter 8, Chapter 9
 
 # Context reinstatement
-- Required readings: [Manning (2021)](https://psyarxiv.com/6zjwb), [Manning (2020)](https://www.dropbox.com/s/pzj7nr6ma4rlosd/context_chapter.pdf)
+- Required readings: [Manning (2021)](https://www.dropbox.com/s/7873vuevillrbze/mann21.pdf), [Manning (2020)](https://www.dropbox.com/s/pzj7nr6ma4rlosd/context_chapter.pdf)
 - Assignment: [Problem set 7](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%207/problem%20set%207.pdf)
 
 # Advanced topics
