@@ -49,9 +49,9 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 |[Problem set 4](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%204/problem%20set%204.pdf) | 1 point | *Expired* | May 5, 2021 |
 |[Midterm exam](https://canvas.dartmouth.edu/courses/45671/discussion_topics/313731); covers content through Chapter 4, inclusive | 20 points | *Expired* | May 11, 2021 |
 |[Problem set 5](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%205/problem%20set%205.pdf) | 1 point | *Expired* | May 19, 2021 |
-|[Problem set 6](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%206/problem%20set%206.pdf) | 1 point | **Active** | May 28, 2021 |
-|[Problem set 7](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%207/problem%20set%207.pdf) | 1 point | Inactive | Not scheduled |
-|[Final exam](inactive); covers *all* course content through the last day of class, inclusive | 25 points | Inactive | Not scheduled |
+|[Problem set 6](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%206/problem%20set%206.pdf) | 1 point | **Active** | June 2, 2021 |
+|[Problem set 7](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%207/problem%20set%207.pdf) | 1 point (bonus/optional) | **Active** | June 2, 2021 |
+|[Final exam](inactive); covers *all* course content through the last day of class, inclusive | 25 points | Inactive | June 7, 2021 |
 
 # Background
 - Required reading: Chapter 1
@@ -102,6 +102,7 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 - Optional materials: [Manning (2015)](https://www.dropbox.com/s/qzmvf911dr4uzcp/MannEtal15.pdf), [Memory Booster: Episodic Memory](https://www.dropbox.com/s/saaqcpue5tf2625/Memory%20Booster%20--%20Episodic%20Memory%20%28Jeremy%20Manning%29.m4a)
 - [**Lecture 21 recording**](https://youtu.be/zRyMDj8_Bz0): free recall (and variants), probability of first recall, clustering, the role of context in free recall [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_21.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_21.key)]
 - [**Lecture 22 recording**](https://youtu.be/-MmNELLTA44): clustering scores and memory fingerprints, serial position curves, intrusions, directed forgetting, event boundaries, situation models [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_22.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_22.key)]
+- [**Lecture 23 recording**](https://youtu.be/dxAD2_qNi6w): dual store model (SAM) [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_23.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_23.key)]
 - Assignment: [Problem set 6](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%206/problem%20set%206.pdf)
 
 # Sequence memory
