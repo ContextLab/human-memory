@@ -22,8 +22,7 @@ While I strive for 100% accuracy in my courses, I recognize that I am very unlik
 5. [Associative memory](https://github.com/ContextLab/human-memory/blob/main/README.md#associative-memory)
 6. [Free recall](https://github.com/ContextLab/human-memory/blob/main/README.md#free-recall)
 7. [Sequence memory](https://github.com/ContextLab/human-memory/blob/main/README.md#sequence-memory)
-8. [Context reinstatement](https://github.com/ContextLab/human-memory/blob/main/README.md#context-reinstatement)
-9. [Advanced topics](https://github.com/ContextLab/human-memory/blob/main/README.md#advanced-topics)
+8. [Context reinstatement](https://github.com/ContextLab/human-memory/blob/main/README.md#context-reinstatement-and-advanced-topics)
 
 # Orientation
 **Start here!**  The materials for each module below are organized sequentially.  Work your way from section to section (and from top to bottom within each section).  The recorded lectures (in **bold**) typically cover preceding material (after the previous lecture, within the same module). Take notes on questions you have as you are reviewing the material, along with any comments, concerns, etc. that would like to bring them up for discussion during our synchronous class meetings.  I'll leave time at the beginning of most classes to quickly recap the key ideas from the prior lecture, and for students to bring up discussion topics related to the readings and/or course materials.
