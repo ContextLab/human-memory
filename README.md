@@ -97,7 +97,7 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 - Assignment: [Problem set 5](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%205/problem%20set%205.pdf)
 
 # Free recall
-- Note: this topic will take two weeks to cover
+- Note: this topic will take more than a week to cover
 - Required readings: Chapter 6, Chapter 7, [Owen et al., 2020](https://www.biorxiv.org/content/10.1101/763821v2), [Manning et al. (2016)](https://www.dropbox.com/s/xdj6heyp73y92g4/MannEtal16.pdf)
 - Optional materials: [Manning (2015)](https://www.dropbox.com/s/qzmvf911dr4uzcp/MannEtal15.pdf), [Memory Booster: Episodic Memory](https://www.dropbox.com/s/saaqcpue5tf2625/Memory%20Booster%20--%20Episodic%20Memory%20%28Jeremy%20Manning%29.m4a)
 - [**Lecture 21 recording**](https://youtu.be/zRyMDj8_Bz0): free recall (and variants), probability of first recall, clustering, the role of context in free recall [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_21.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_21.key)]
@@ -109,10 +109,7 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 - Note: this topic will take two weeks to cover (and we will likely skip this topic for the Spring 2021 offering of this course)
 - Required readings: Chapter 8, Chapter 9
 
-# Context reinstatement
-- Required readings: [Manning (2021)](https://www.dropbox.com/s/7873vuevillrbze/mann21.pdf), [Manning (2020)](https://www.dropbox.com/s/pzj7nr6ma4rlosd/context_chapter.pdf)
-- Assignment: [Problem set 7](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%207/problem%20set%207.pdf)
-
-# Advanced topics
-- Required readings: [Baldassano et al. (2017)](https://www.dropbox.com/s/ytjokm6fnocj9ut/BaldEtal17.pdf)
-- Assignment: [Final exam](inactive)
+# Context reinstatement and advanced topics
+- Note: we will cover material in this module as time allows
+- Required readings: [Manning (2021)](https://www.dropbox.com/s/7873vuevillrbze/mann21.pdf), [Manning (2020)](https://www.dropbox.com/s/pzj7nr6ma4rlosd/context_chapter.pdf), [Baldassano et al. (2017)](https://www.dropbox.com/s/ytjokm6fnocj9ut/BaldEtal17.pdf)
+- Assignments: [Problem set 7](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%207/problem%20set%207.pdf), [Final exam](inactive)
