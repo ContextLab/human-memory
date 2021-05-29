@@ -102,6 +102,7 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 - [**Lecture 21 recording**](https://youtu.be/zRyMDj8_Bz0): free recall (and variants), probability of first recall, clustering, the role of context in free recall [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_21.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_21.key)]
 - [**Lecture 22 recording**](https://youtu.be/-MmNELLTA44): clustering scores and memory fingerprints, serial position curves, intrusions, directed forgetting, event boundaries, situation models [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_22.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_22.key)]
 - [**Lecture 23 recording**](https://youtu.be/dxAD2_qNi6w): dual store model (SAM) [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_23.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_23.key)]
+- [**Lecture 24 recording**](https://youtu.be/QjOHFLw7Xtc): single store (context-based) model (TCM), neural signature of temporal context [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_24.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_24.key)]
 - Assignment: [Problem set 6](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%206/problem%20set%206.pdf)
 
 # Sequence memory
