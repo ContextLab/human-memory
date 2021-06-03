@@ -112,5 +112,6 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 # Context reinstatement and advanced topics
 - Note: we will cover material in this module as time allows
 - Required readings: [Manning (2021)](https://www.dropbox.com/s/7873vuevillrbze/mann21.pdf), [Manning (2020)](https://www.dropbox.com/s/pzj7nr6ma4rlosd/context_chapter.pdf), [Baldassano et al. (2017)](https://www.dropbox.com/s/ytjokm6fnocj9ut/BaldEtal17.pdf)
-- [**Lecture 25 recording**](add link): multi-timescale models, scale invariance, time cells, temporal receptive windows, concluding thoughts [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_25.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_25.key)]
+- [**Lecture 25 recording**](https://youtu.be/yXElJRBdhYc): multi-timescale models, scale invariance, time cells, temporal receptive windows, concluding thoughts [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_25.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_25.key)]
+  - Extra slides (not covered in class): [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_25_extras.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_25_extras.key)]
 - Assignments: [Problem set 7](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%207/problem%20set%207.pdf), [Final exam](inactive)
