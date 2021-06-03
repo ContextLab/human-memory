@@ -48,8 +48,8 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 |[Problem set 4](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%204/problem%20set%204.pdf) | 1 point | *Expired* | May 5, 2021 |
 |[Midterm exam](https://canvas.dartmouth.edu/courses/45671/discussion_topics/313731); covers content through Chapter 4, inclusive | 20 points | *Expired* | May 11, 2021 |
 |[Problem set 5](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%205/problem%20set%205.pdf) | 1 point | *Expired* | May 19, 2021 |
-|[Problem set 6](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%206/problem%20set%206.pdf) | 1 point | **Active** | June 2, 2021 |
-|[Problem set 7](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%207/problem%20set%207.pdf) | 1 point (bonus/optional) | **Active** | June 2, 2021 |
+|[Problem set 6](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%206/problem%20set%206.pdf) | 1 point | *Expired* | June 2, 2021 |
+|[Problem set 7](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%207/problem%20set%207.pdf) | 1 point (bonus/optional) | *Expired* | June 2, 2021 |
 |[Final exam](inactive); covers *all* course content through the last day of class, inclusive | 25 points | Inactive | June 7, 2021 |
 
 # Background
@@ -112,4 +112,5 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 # Context reinstatement and advanced topics
 - Note: we will cover material in this module as time allows
 - Required readings: [Manning (2021)](https://www.dropbox.com/s/7873vuevillrbze/mann21.pdf), [Manning (2020)](https://www.dropbox.com/s/pzj7nr6ma4rlosd/context_chapter.pdf), [Baldassano et al. (2017)](https://www.dropbox.com/s/ytjokm6fnocj9ut/BaldEtal17.pdf)
+- [**Lecture 25 recording**](add link): multi-timescale models, scale invariance, time cells, temporal receptive windows, concluding thoughts [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_25.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_25.key)]
 - Assignments: [Problem set 7](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%207/problem%20set%207.pdf), [Final exam](inactive)
