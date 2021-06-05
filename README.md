@@ -50,7 +50,7 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 |[Problem set 5](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%205/problem%20set%205.pdf) | 1 point | *Expired* | May 19, 2021 |
 |[Problem set 6](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%206/problem%20set%206.pdf) | 1 point | *Expired* | June 2, 2021 |
 |[Problem set 7](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%207/problem%20set%207.pdf) | 1 point (bonus/optional) | *Expired* | June 2, 2021 |
-|[Final exam](inactive); covers *all* course content through the last day of class, inclusive | 25 points | Inactive | June 7, 2021 |
+|[Final exam](mailto:jeremy@dartmouth.edu?&subject=Requesting%20early%20final%20exam&body=Please%20send%20this%20email%20to%20request%20your%20exam%20early.); covers *all* course content through the last day of class, inclusive | 25 points | **Active upon request** | June 8, 2021 |
 
 # Background
 - Required reading: Chapter 1
