@@ -50,7 +50,7 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 |[Problem set 5](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%205/problem%20set%205.pdf) | 1 point | *Expired* | May 19, 2021 |
 |[Problem set 6](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%206/problem%20set%206.pdf) | 1 point | *Expired* | June 2, 2021 |
 |[Problem set 7](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%207/problem%20set%207.pdf) | 1 point (bonus/optional) | *Expired* | June 2, 2021 |
-|[Final exam](mailto:jeremy@dartmouth.edu?&subject=Requesting%20early%20final%20exam&body=Please%20send%20this%20email%20to%20request%20your%20exam%20early.); covers *all* course content through the last day of class, inclusive | 25 points | **Active upon request** | June 8, 2021 |
+|[Final exam](https://canvas.dartmouth.edu/courses/45671/discussion_topics/317828); covers *all* course content through the last day of class, inclusive | 25 points | **Active** | June 8, 2021 |
 
 # Background
 - Required reading: Chapter 1
@@ -114,4 +114,4 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 - Required readings: [Manning (2021)](https://www.dropbox.com/s/7873vuevillrbze/mann21.pdf), [Manning (2020)](https://www.dropbox.com/s/pzj7nr6ma4rlosd/context_chapter.pdf), [Baldassano et al. (2017)](https://www.dropbox.com/s/ytjokm6fnocj9ut/BaldEtal17.pdf)
 - [**Lecture 25 recording**](https://youtu.be/yXElJRBdhYc): multi-timescale models, scale invariance, time cells, temporal receptive windows, concluding thoughts [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_25.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_25.key)]
   - Extra slides (not covered in class): [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_25_extras.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_25_extras.key)]
-- Assignments: [Problem set 7](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%207/problem%20set%207.pdf), [Final exam](inactive)
+- Assignments: [Problem set 7](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%207/problem%20set%207.pdf), [Final exam](https://canvas.dartmouth.edu/courses/45671/discussion_topics/317828)
