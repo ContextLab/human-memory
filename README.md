@@ -1,5 +1,7 @@
 # Human Memory
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5182787.svg)](https://doi.org/10.5281/zenodo.5182787)
+
 Welcome!  This repository contains course materials for the Dartmouth undergraduate course [Human Memory (PSYC 51.09)](https://pbs.dartmouth.edu/undergraduate/courses-and-syllabi/topics-courses-2020-2021).  The syllabus may be found [here](https://github.com/ContextLab/human-memory/blob/main/admin/PSYC_51_syllabus.pdf).  Feel free to follow along with the course materials (whether you are officially enrolled in the course or just visiting!), submit comments and suggestions, etc.  If you are a course instructor, you may feel free to use these materials in your own courses (attribution is appreciated).
 
 <img src=https://salvadordalilounge.files.wordpress.com/2014/12/salvador_dali_-_persistence_of_memory_1931_fr.jpg width="350">
