@@ -2,13 +2,13 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5182787.svg)](https://doi.org/10.5281/zenodo.5182787)
 
-Welcome!  This repository contains course materials for the Dartmouth undergraduate course [Human Memory (PSYC 51.09)](https://pbs.dartmouth.edu/undergraduate/courses-and-syllabi/topics-courses-2020-2021).  The syllabus may be found [here](https://github.com/ContextLab/human-memory/blob/main/admin/PSYC_51_syllabus.pdf).  Feel free to follow along with the course materials (whether you are officially enrolled in the course or just visiting!), submit comments and suggestions, etc.  If you are a course instructor, you may feel free to use these materials in your own courses (attribution is appreciated).
+Welcome!  This repository contains course materials for the Dartmouth undergraduate course [Human Memory (PSYC 51.09)](https://pbs.dartmouth.edu/undergraduate/courses-and-syllabi/topics-courses-2021-2022).  The syllabus may be found [here](https://github.com/ContextLab/human-memory/blob/main/admin/PSYC_51_syllabus.pdf).  Feel free to follow along with the course materials (whether you are officially enrolled in the course or just visiting!), submit comments and suggestions, etc.  If you are a course instructor, you may feel free to use these materials in your own courses (attribution is appreciated).
 
 <img src=https://salvadordalilounge.files.wordpress.com/2014/12/salvador_dali_-_persistence_of_memory_1931_fr.jpg width="350">
 
 ## Acknowledgements
 
-This course, and many of the course materials, were inspired by (and in some cases copied from!), similar content by [Michael Kahana](http://memory.psych.upenn.edu/Main_Page), [Sean Polyn](https://memory.psy.vanderbilt.edu/w/index.php/Main_Page), and [Per Sederberg](http://compmem.org/).  These materials have also been heavilty influenced by feedback from students who enrolled in prior offerings of this course.
+This course, and many of the course materials, were inspired by (and in some cases copied from!), similar content by [Michael Kahana](http://memory.psych.upenn.edu/Main_Page), [Sean Polyn](https://memory.psy.vanderbilt.edu/w/index.php/Main_Page), and [Per Sederberg](http://compmem.org/).  These materials have also been heavily influenced by feedback from students who enrolled in prior offerings of this course.
 
 ## Contributing
 
@@ -27,7 +27,9 @@ While I strive for 100% accuracy in my courses, I recognize that I am very unlik
 8. [Context reinstatement and advanced topics](https://github.com/ContextLab/human-memory/blob/main/README.md#context-reinstatement-and-advanced-topics)
 
 # Orientation
-**Start here!**  The materials for each module below are organized sequentially.  Work your way from section to section (and from top to bottom within each section).  The recorded lectures (in **bold**) typically cover preceding material (after the previous lecture, within the same module). Take notes on questions you have as you are reviewing the material, along with any comments, concerns, etc. that would like to bring them up for discussion during our synchronous class meetings.  I'll leave time at the beginning of most classes to quickly recap the key ideas from the prior lecture, and for students to bring up discussion topics related to the readings and/or course materials.
+**Start here!**  The materials for each module below are organized sequentially.  Work your way from section to section (and from top to bottom within each section).  The recorded lectures (in **bold**) typically cover preceding material (after the previous lecture, within the same module).  The recordings are from the Spring, 2021 offering of the course.  The content in the recordings may differ somewhat from the current (Winter, 2022) version, but they should be "similar enough" that you can use the recordings as needed if you are unable to attend a class meeting in person, or if you are taking this course unofficially (e.g., without formally enrolling).
+
+I suggest that you take notes on questions you have as you are reviewing the material, along with any comments, concerns, etc. that you would like to bring up for discussion during our synchronous class meetings.  I'll leave time at the beginning of most classes to quickly recap the key ideas from the prior lecture, and for students to bring up discussion topics related to the readings and/or course materials.
 
 Each of the sections below (except the next one) covers a specific aspect of human learning and memory.  Most of the sections (all but the last) correspond to specific chapters in our [course textbook](https://www.amazon.com/Foundations-Human-Memory-Michael-Kahana/dp/0199387648/ref=sr_1_1?dchild=1&keywords=9780195333244&linkCode=qs&qid=1616513423&s=books&sr=1-1).  You should read the given chapter(s) *prior* to our course meeting on that topic.  **Note**: the outline below reflects my current best guess about the material we will cover this term.  The content is subject to change based on students' interests and backgrounds.
 
@@ -36,7 +38,7 @@ Each of the sections below (except the next one) covers a specific aspect of hum
 
 # Assignments
 
-All assignments should be submitted via the [course Canvas page](https://canvas.dartmouth.edu/courses/45671) unless otherwise specified.  Point values are indicated in parentheses.  Note that all problem sets are graded as credit (1 point) or no credit (0 points).  To recieve credit for a problem set you must turn in the complete problem set by the due date.  (There is no credit for late assignments and/or partially completed assignments.)
+All assignments should be submitted via the [course Canvas page](https://canvas.dartmouth.edu/courses/45671) unless otherwise specified.  Point values are indicated in parentheses.  Note that all problem sets are graded as credit (1 point) or no credit (0 points).  To receive credit for a problem set you must turn in the complete problem set by the due date.  (There is no credit for late assignments and/or partially completed assignments.)
 
 The exam links will become active when they go live (they are not available in advance).  Exams are open-book and must be completed within 24 hours their respective start times.  **Collaboration and cooperation on problem sets is encouraged, but exams must be completed individually.**
 
@@ -44,19 +46,19 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 
 | Assignment | Point value | Status | Due date |
 |------------|-------------|--------|----------|
-|[Problem set 1](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%201/problem%20set%201.pdf) | 1 point | *Expired* | April 5, 2021 |
-|[Problem set 2](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%202/problem%20set%202.pdf) | 1 point | *Expired* | April 12, 2021 |
-|[Problem set 3](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%203/problem%20set%203.pdf) | 1 point | *Expired* | April 26, 2021 |
-|[Problem set 4](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%204/problem%20set%204.pdf) | 1 point | *Expired* | May 5, 2021 |
-|[Midterm exam](https://canvas.dartmouth.edu/courses/45671/discussion_topics/313731); covers content through Chapter 4, inclusive | 20 points | *Expired* | May 11, 2021 |
-|[Problem set 5](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%205/problem%20set%205.pdf) | 1 point | *Expired* | May 19, 2021 |
-|[Problem set 6](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%206/problem%20set%206.pdf) | 1 point | *Expired* | June 2, 2021 |
-|[Problem set 7](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%207/problem%20set%207.pdf) | 1 point (bonus/optional) | *Expired* | June 2, 2021 |
-|[Final exam](https://canvas.dartmouth.edu/courses/45671/discussion_topics/317828); covers *all* course content through the last day of class, inclusive | 25 points | *Expired* | June 8, 2021 |
+|[Problem set 1](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%201/problem%20set%201.pdf) | 1 point | *Inactive* | April 2, 2021 |
+|[Problem set 2](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%202/problem%20set%202.pdf) | 1 point | *Inactive* | April 11, 2021 |
+|[Problem set 3](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%203/problem%20set%203.pdf) | 1 point | *Inactive* | April 25, 2021 |
+|[Problem set 4](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%204/problem%20set%204.pdf) | 1 point | *Inactive* | May 2, 2021 |
+|Midterm exam; covers content through Chapter 4, inclusive | 20 points | *Inactive* | May 13, 2021 |
+|[Problem set 5](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%205/problem%20set%205.pdf) | 1 point | *Inactive* | May 20, 2021 |
+|[Problem set 6](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%206/problem%20set%206.pdf) | 1 point | *Inactive* | May 27, 2021 |
+|[Problem set 7](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%207/problem%20set%207.pdf) | 1 point (bonus/optional) | *Inactive* | June 1, 2021 |
+|Final exam; covers *all* course content through the last day of class, inclusive | 25 points | *Inactive* | June 3, 2021 |
 
 # Background
 - Required reading: Chapter 1
-- Optional materials:  [Tulving (1972)](https://www.dropbox.com/s/grfjdqs218c7wke/Tulv72.pdf), [Memento (film)](https://www.youtube.com/watch?v=KpNLhJhp8uI), [The Golden Man](https://www.dropbox.com/s/2zkjq0w2iq26ajr/The_Golden_Man__Philip_K_Dick.pdf)
+- Optional materials:  [Tulving (1972)](https://www.dropbox.com/s/grfjdqs218c7wke/Tulv72.pdf), [Memento (film)](https://www.amazon.com/Memento-Guy-Pearce/dp/B0763T3HC6), [The Golden Man](https://www.dropbox.com/s/2zkjq0w2iq26ajr/The_Golden_Man__Philip_K_Dick.pdf)
 - Assignment: [Problem set 1](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%201/problem%20set%201.pdf)
 - [**Lecture 1 recording**](https://youtu.be/eLTEP0oLxd0): defining and thinking about memory [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_1.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_1.key)]
 - [**Lecture 2 recording**](https://www.dropbox.com/s/s3zx62mo37ihcx1/PSYC%2051%20Lecture%202.mp4): spaced versus massed repetition, recency, sleep, and context  [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_2.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_2.key)] 
@@ -89,7 +91,7 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 - [**Lecture 14 recording**](https://youtu.be/H2HovUQd-7E): introduction to associative memory and cued recall, paired associates learning, incremental versus all-or-none learning, priming, free associations, elaborative encoding [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_14.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_14.key)]
 - [**Lecture 15 recording**](https://youtu.be/QKktJ2vDOxU): decay vs. interference, competition, proactive interference [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_15.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_15.key)]
 - [**Lecture 16 recording**](https://youtu.be/hZyVfpc4PEY): retroactive interference, modified free recall, modified modified free recall, interference and context, the attribute similarity model of recall, retrieval induced forgetting [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_16.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_16.key)]
-- Assignments: [Problem set 4](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%204/problem%20set%204.pdf), [Midterm exam](https://canvas.dartmouth.edu/courses/45671/discussion_topics/313731)
+- Assignments: [Problem set 4](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%204/problem%20set%204.pdf), Midterm exam
   - [**Midterm review session**](https://youtu.be/dacIwvmdA4s): open Q&A about any course material up through Chapter 4
 - [**Lecture 17 recording**](https://youtu.be/8gtdCdCvkjk): introduction to models of associative memory and the learning rule of Hopfield networks [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_17.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_17.key)]
 - [**Lecture 18 recording**](https://youtu.be/kU0LQfq25ww): Hopfield networks part II: the learning rule (continued) [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_18.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_18.key)]
@@ -108,7 +110,7 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 - Assignment: [Problem set 6](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%206/problem%20set%206.pdf)
 
 # Sequence memory
-- Note: this topic will take two weeks to cover (and we will likely skip this topic for the Spring 2021 offering of this course)
+- Note: this topic will take two weeks to cover (and we will likely skip this topic for the Spring 2022 offering of this course)
 - Required readings: Chapter 8, Chapter 9
 
 # Context reinstatement and advanced topics
@@ -117,4 +119,4 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 - [**Lecture 25 recording**](https://youtu.be/yXElJRBdhYc): multi-timescale models, scale invariance, time cells, temporal receptive windows, concluding thoughts [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_25.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_25.key)]
   - Extra slides (not covered in class): [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_25_extras.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_25_extras.key)]
   - [**Supplementary lecture that covers material mentioned on extra slides**](https://www.youtube.com/watch?v=yUCxk7sFny8) (source: talk given at Berkeley in 2020): thought spaces, thought trajectories, multi-timescale models and their neural correlates, geometric models of memory, where we "go" when we remember, modeling classroom learning, AI teachers, models of conversation
-- Assignments: [Problem set 7](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%207/problem%20set%207.pdf), [Final exam](https://canvas.dartmouth.edu/courses/45671/discussion_topics/317828)
+- Assignments: [Problem set 7](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%207/problem%20set%207.pdf), Final exam
