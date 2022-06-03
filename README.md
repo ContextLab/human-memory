@@ -52,9 +52,9 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 |[Problem set 4](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%204/problem%20set%204.pdf) | 1 point | *Expired* | May 2, 2022 |
 |Midterm exam; covers content through Chapter 4 and part of Chapter 5, inclusive | 20 points | *Expired* | May 13--14, 2022 |
 |[Problem set 5](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%205/problem%20set%205.pdf) | 1 point | *Expired* | May 23, 2022 |
-|[Problem set 6](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%206/problem%20set%206.pdf) | 1 point | **Active** | June 1, 2022 |
-|[Problem set 7](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%207/problem%20set%207.pdf) | 1 point (bonus/optional) | **Active** | June 1, 2022 |
-|Final exam; covers *all* course content through the last day of class, inclusive | 25 points | *Inactive* | June 3--4, 2022 |
+|[Problem set 6](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%206/problem%20set%206.pdf) | 1 point | *Expired* | June 1, 2022 |
+|[Problem set 7](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%207/problem%20set%207.pdf) | 1 point (bonus/optional) | *Expired* | June 1, 2022 |
+|[Final exam](https://canvas.dartmouth.edu/courses/52363/discussion_topics/372252); covers *all* course content through the last day of class, inclusive | 25 points | **Active** | June 3--4, 2022 |
 
 # Background
 - Required reading: Chapter 1
