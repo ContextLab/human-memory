@@ -110,7 +110,7 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 - Assignment: [Problem set 6](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%206/problem%20set%206.pdf)
 
 # Sequence memory
-- Note: this topic will take two weeks to cover (and we will likely skip this topic for the Spring 2022 offering of this course)
+- Note: this topic will take two weeks to cover (and we will likely skip this topic for the Winter 2024 offering of this course)
 - Required readings: Chapter 8, Chapter 9
 
 # Context reinstatement and advanced topics
