@@ -42,7 +42,7 @@ All assignments should be submitted via the [course Canvas page](https://canvas.
 
 The exam links will become active when they go live (they are not available in advance).  Exams are open-book and must be completed within 24 hours their respective start times.  **Collaboration and cooperation on problem sets is encouraged, but exams must be completed individually.**
 
-Note: Only assignments marked *active* are guarantee to be in their final form-- *inactive* assignments are provided to help set expectations about future assignments, but they may be edited or changed prior to be formally assigned.  *Expired* assignments are past their due date (and therefore may no longer be handed in for credit).  Previous years' problem sets may be found [here](https://github.com/ContextLab/human-memory/tree/main/problem%20sets/previous%20years).
+Note: Only assignments marked *active* are guaranteed to be in their final form-- *inactive* assignments are provided to help set expectations about future assignments, but they may be edited or changed prior to be formally assigned.  *Expired* assignments are past their due date (and therefore may no longer be handed in for credit).  Previous years' problem sets may be found [here](https://github.com/ContextLab/human-memory/tree/main/problem%20sets/previous%20years).
 
 | Assignment | Point value | Status | Due date |
 |------------|-------------|--------|----------|
