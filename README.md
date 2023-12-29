@@ -38,23 +38,23 @@ Each of the sections below (except the next one) covers a specific aspect of hum
 
 # Assignments
 
-All assignments should be submitted via the [course Canvas page](https://canvas.dartmouth.edu/courses/52363) unless otherwise specified.  Point values are indicated in parentheses.  Note that all problem sets are graded as credit (1 point) or no credit (0 points).  To receive credit for a problem set you must turn in the complete problem set by the due date.  (There is no credit for late assignments and/or partially completed assignments.)
+All assignments should be submitted via the [course Canvas page](https://canvas.dartmouth.edu/courses/63501) unless otherwise specified.  Point values are indicated in parentheses.  Note that all problem sets are graded as credit (1 point) or no credit (0 points).  To receive credit for a problem set you must turn in the complete problem set by the due date.  (There is no credit for late assignments and/or partially completed assignments.)
 
 The exam links will become active when they go live (they are not available in advance).  Exams are open-book and must be completed within 24 hours their respective start times.  **Collaboration and cooperation on problem sets is encouraged, but exams must be completed individually.**
 
-Note: Only assignments marked *active* are guarantee to be in their final form-- *inactive* assignments are provided to help set expectations about future assignments, but they may be edited or changed prior to be formally assigned.  *Expired* assignments are past their due date (and therefore may no longer be handed in for credit).
+Note: Only assignments marked *active* are guarantee to be in their final form-- *inactive* assignments are provided to help set expectations about future assignments, but they may be edited or changed prior to be formally assigned.  *Expired* assignments are past their due date (and therefore may no longer be handed in for credit).  Previous years' problem sets may be found [here](https://github.com/ContextLab/human-memory/tree/main/problem%20sets/previous%20years).
 
 | Assignment | Point value | Status | Due date |
 |------------|-------------|--------|----------|
-|[Problem set 1](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%201/problem%20set%201.pdf) | 1 point | *Expired* | April 4, 2022 |
-|[Problem set 2](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%202/problem%20set%202.pdf) | 1 point | *Expired* | April 11, 2022 |
-|[Problem set 3](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%203/problem%20set%203.pdf) | 1 point | *Expired* | April 25, 2022 |
-|[Problem set 4](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%204/problem%20set%204.pdf) | 1 point | *Expired* | May 2, 2022 |
-|Midterm exam; covers content through Chapter 4 and part of Chapter 5, inclusive | 20 points | *Expired* | May 13--14, 2022 |
-|[Problem set 5](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%205/problem%20set%205.pdf) | 1 point | *Expired* | May 23, 2022 |
-|[Problem set 6](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%206/problem%20set%206.pdf) | 1 point | *Expired* | June 1, 2022 |
-|[Problem set 7](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%207/problem%20set%207.pdf) | 1 point (bonus/optional) | *Expired* | June 1, 2022 |
-|[Final exam](https://canvas.dartmouth.edu/courses/52363/discussion_topics/372252); covers *all* course content through the last day of class, inclusive | 25 points | *Expired* | June 3--4, 2022 |
+|[Problem set 1](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%201/problem%20set%201.pdf) | 1 point | *inactive* | January 10, 2024 |
+|[Problem set 2](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%202/problem%20set%202.pdf) | 1 point | *inactive* | January 17, 2024 |
+|[Problem set 3](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%203/problem%20set%203.pdf) | 1 point | *inactive* | January 24, 2024 |
+|[Problem set 4](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%204/problem%20set%204.pdf) | 1 point | *inactive* | January 31, 2024 |
+|Midterm exam; covers content through Chapter 4 and part of Chapter 5, inclusive | 20 points | *inactive* | February 7--8, 2024 |
+|[Problem set 5](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%205/problem%20set%205.pdf) | 1 point | *inactive* | February 16, 2024 |
+|[Problem set 6](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%206/problem%20set%206.pdf) | 1 point | *inactive* | February 23, 2024 |
+|[Problem set 7](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%207/problem%20set%207.pdf) | 1 point (bonus/optional) | *inactive* | March 1, 2024 |
+|[Final exam](https://canvas.dartmouth.edu/courses/52363/discussion_topics/372252); covers *all* course content through the last day of class, inclusive | 25 points | *inactive* | March 4--5, 2024 |
 
 # Background
 - Required reading: Chapter 1
@@ -115,7 +115,7 @@ Note: Only assignments marked *active* are guarantee to be in their final form--
 
 # Context reinstatement and advanced topics
 - Note: we will cover material in this module as time allows
-- Required readings: [Manning (2021)](https://www.dropbox.com/s/7873vuevillrbze/mann21.pdf), [Manning (2020)](https://www.dropbox.com/s/pzj7nr6ma4rlosd/context_chapter.pdf), [Baldassano et al. (2017)](https://www.dropbox.com/s/ytjokm6fnocj9ut/BaldEtal17.pdf)
+- Required readings: [Manning (2021)](https://www.dropbox.com/s/7873vuevillrbze/mann21.pdf), [Manning (2023)](https://www.dropbox.com/scl/fi/9amk5mlgeop0srtpwqesg/Mann23.pdf?rlkey=lc785xhq1pcjqdtarn692e21k), [Baldassano et al. (2017)](https://www.dropbox.com/s/ytjokm6fnocj9ut/BaldEtal17.pdf)
 - [**Lecture 25 recording**](https://youtu.be/yXElJRBdhYc): multi-timescale models, scale invariance, time cells, temporal receptive windows, concluding thoughts [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_25.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_25.key)]
   - Extra slides (not covered in class): [[PDF](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_25_extras.pdf)][[KEY](https://github.com/ContextLab/human-memory/raw/main/slides/lecture_25_extras.key)]
   - [**Supplementary lecture that covers material mentioned on extra slides**](https://www.youtube.com/watch?v=yUCxk7sFny8) (source: talk given at Berkeley in 2020): thought spaces, thought trajectories, multi-timescale models and their neural correlates, geometric models of memory, where we "go" when we remember, modeling classroom learning, AI teachers, models of conversation
