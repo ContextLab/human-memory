@@ -49,9 +49,9 @@ Note: Only assignments marked *active* are guaranteed to be in their final form-
 |[Problem set 1](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%201/problem%20set%201.pdf) | 1 point | *expired* | January 10, 2024 |
 |[Problem set 2](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%202/problem%20set%202.pdf) | 1 point | *expired* | January 22, 2024 |
 |[Problem set 3](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%203/problem%20set%203.pdf) | 1 point | *expired* | January 29, 2024 |
-|[Problem set 4](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%204/problem%20set%204.pdf) | 1 point | *active* | February 9, 2024 |
-|Midterm exam; covers content through part of Chapter 4, inclusive | 20 points | *active* | February 8, 2024 |
-|[Problem set 5](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%205/problem%20set%205.pdf) | 1 point | *inactive* | February 16, 2024 |
+|[Problem set 4](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%204/problem%20set%204.pdf) | 1 point | *expired* | February 9, 2024 |
+|Midterm exam; covers content through part of Chapter 4, inclusive | 20 points | *expired* | February 8, 2024 |
+|[Problem set 5](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%205/problem%20set%205.pdf) | 1 point | *active* | February 16, 2024 |
 |[Problem set 6](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%206/problem%20set%206.pdf) | 1 point | *inactive* | February 23, 2024 |
 |[Problem set 7](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%207/problem%20set%207.pdf) | 1 point (bonus/optional) | *inactive* | March 1, 2024 |
 |Final exam; covers *all* course content through the last day of class, inclusive | 25 points | *inactive* | March 4--5, 2024 |
