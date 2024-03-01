@@ -52,8 +52,8 @@ Note: Only assignments marked *active* are guaranteed to be in their final form-
 |[Problem set 4](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%204/problem%20set%204.pdf) | 1 point | *expired* | February 9, 2024 |
 |Midterm exam; covers content through part of Chapter 4, inclusive | 20 points | *expired* | February 8, 2024 |
 |[Problem set 5](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%205/problem%20set%205.pdf) | 1 point | *expired* | February 16, 2024 |
-|[Problem set 6](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%206/problem%20set%206.pdf) | 1 point | *active* | February 26, 2024 |
-|[Problem set 7](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%207/problem%20set%207.pdf) | 1 point (bonus/optional) | *inactive* | March 1, 2024 |
+|[Problem set 6](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%206/problem%20set%206.pdf) | 1 point | *expired* | February 26, 2024 |
+|[Problem set 7](https://github.com/ContextLab/human-memory/raw/main/problem%20sets/current%20year/problem%20set%207/problem%20set%207.pdf) | 1 point (bonus/optional) | *active* | March 1, 2024 |
 |Final exam; covers *all* course content through the last day of class, inclusive | 25 points | *inactive* | March 4--5, 2024 |
 
 # Background
